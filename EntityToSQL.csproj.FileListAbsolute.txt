@@ -1,0 +1,6 @@
+C:\RnDTest\EntityToSQL\EntityToSQL\bin\Debug\EntityToSQL.exe.config
+C:\RnDTest\EntityToSQL\EntityToSQL\bin\Debug\EntityToSQL.exe
+C:\RnDTest\EntityToSQL\EntityToSQL\bin\Debug\EntityToSQL.pdb
+C:\RnDTest\EntityToSQL\EntityToSQL\obj\Debug\EntityToSQL.csproj.CoreCompileInputs.cache
+C:\RnDTest\EntityToSQL\EntityToSQL\obj\Debug\EntityToSQL.exe
+C:\RnDTest\EntityToSQL\EntityToSQL\obj\Debug\EntityToSQL.pdb
